@@ -1,4 +1,4 @@
-The-Sparks-Foundation-Project
+The Sparks Foundation Project
 
 Sparks Foundation Internship Project:Basic Banking System
 
